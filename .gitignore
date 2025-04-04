@@ -180,7 +180,7 @@ cython_debug/
 /build
 /history
 /dist/results
-/dist
 /dist/*
 
+!/dist/
 !/dist/recording1_v7_withAudio.exe
