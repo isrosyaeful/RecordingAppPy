@@ -182,3 +182,5 @@ cython_debug/
 /dist/results
 /dist
 /dist/*
+
+!/dist/recording1_v7_withAudio.exe
